@@ -1,0 +1,20 @@
+aula ciencia de daos dia 26\5\2023
+
+
+filtragem colaborativa
+  divisao em nichos
+   efeito manada
+   
+   PCA principal componente analysis
+      reducao da dimensionalidade.
+      
+      
+  AFE - analise fatorial explotatoria
+    encontrar uma pergnta
+    
+ AFC - analie
+ se fatorial comfirmatoria
+    responde\confirma uma pergunta
+    
+
+ 
